@@ -1,1 +1,6 @@
-REQ # | User Requirement | Expected Results | Actual Results | Pass/Fail
+### REQ Number:
+### User Requirement
+### Test Procedure
+### Expected Results
+### Actual Results
+### Pass/Fail
